@@ -1,4 +1,4 @@
-<h1 align="center"> [M2] View chest contet 👋</h1>
+<h1 align="center"> [M2] View chest contet ⚡</h1>
 
 Permite o jogador visualizar o contéudo do cofre. O sistema suporta mostrar até 14 itens de um báu. (Devido não suportar scrollbar(barra de rolagem), limita a quantidade. (Com o cliente 1366x768.) 
 Indicado para cofres de eventos, algo com contéudo menor.
